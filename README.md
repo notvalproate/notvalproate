@@ -12,7 +12,6 @@
 </ul>
 
 ## Github Stats: 
-#### (I'm still a newbie :p)
 
 <details open>
 <summary>:cat: Streak Stats</summary>
