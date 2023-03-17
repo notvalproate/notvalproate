@@ -1,7 +1,6 @@
 # Hello! :wave:
 
-### I'm Ian Tauro. I'm currently studying CS at The National Institute of Engineering, Mysuru. <br> I'm an aspiring Full-Stack and Video Game Developer and I'm currently learning ReactJS.
-
+### I'm Ian Tauro. I'm currently studying CS at The National Institute of Engineering, Mysuru. I also hold the positions of Computer Society Tech Lead and Event Programmer in the Executive-Committee at <a href="https://www.nisb.in" target="_blank">NISB</a><br>I'm an aspiring Full-Stack and Video Game Developer and currently learning ReactJS.
 ## Things I'm Into:
 
 <ul>
