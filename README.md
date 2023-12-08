@@ -1,10 +1,11 @@
 # Hello! :wave:
 
-### I'm Ian Tauro. I'm currently studying CS at The National Institute of Engineering, Mysuru. I also hold the positions of Computer Society Tech Lead and Event Programmer in the Executive-Committee at <a href="https://www.nisb.in">NISB</a><br>I'm an aspiring Full-Stack and Video Game Developer and currently learning ReactJS.
+### I'm Ian Tauro. I'm currently studying CS at The National Institute of Engineering, Mysuru. <br>I'm a Full-Stack and Video Game Developer and currently learning Angular.
 ## Currently Learning
 <ul>
-  <li>Modern C++</li>
+  <li>Angular</li>
   <li>NodeJS</li>
+  <li>MongoDB</li>
 </ul>
 
 ## Things I'm Into:
