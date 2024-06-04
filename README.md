@@ -1,6 +1,5 @@
-# Hello! :wave:
 
-### I'm Ian Tauro. I'm currently studying CS at The National Institute of Engineering, Mysuru. <br>I'm a Full-Stack and Video Game Developer and currently learning Angular.
+### Hello, I'm Ian Tauro. I'm currently studying CS at The National Institute of Engineering, Mysuru. <br>I'm a Full-Stack and Video Game Developer and currently learning Angular.
 ## Currently Learning
 <ul>
   <li>Angular</li>
